@@ -419,6 +419,7 @@
     <Folder Include="images\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="DatabaseScript\MarketDB.sql" />
     <Content Include="MetroFramework.txt" />
     <Content Include="projectImages\envanter.png" />
     <Content Include="projectImages\firma.png" />
