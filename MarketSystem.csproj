@@ -420,6 +420,33 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="MetroFramework.txt" />
+    <Content Include="projectImages\envanter.png" />
+    <Content Include="projectImages\firma.png" />
+    <Content Include="projectImages\giris.png" />
+    <Content Include="projectImages\kasiyerana.png" />
+    <Content Include="projectImages\kasiyergünlüksatis.png" />
+    <Content Include="projectImages\kasiyersatis.png" />
+    <Content Include="projectImages\kasiyerödeme.png" />
+    <Content Include="projectImages\kategori.png" />
+    <Content Include="projectImages\kritikstok.png" />
+    <Content Include="projectImages\KULLANICIHESAP.png" />
+    <Content Include="projectImages\kullanıcıayar.png" />
+    <Content Include="projectImages\main.png" />
+    <Content Include="projectImages\pasif.png" />
+    <Content Include="projectImages\pos1.png" />
+    <Content Include="projectImages\posencok2.png" />
+    <Content Include="projectImages\posenvanter.png" />
+    <Content Include="projectImages\posiptal.png" />
+    <Content Include="projectImages\poskritik.png" />
+    <Content Include="projectImages\possatılan.png" />
+    <Content Include="projectImages\possatılan2.png" />
+    <Content Include="projectImages\SATISGEÇMİS.png" />
+    <Content Include="projectImages\satılan.png" />
+    <Content Include="projectImages\satılan2.png" />
+    <Content Include="projectImages\satış.png" />
+    <Content Include="projectImages\stokgiris.png" />
+    <Content Include="projectImages\stokgiriş2.png" />
+    <Content Include="projectImages\ürünara.png" />
     <Content Include="SqlServerTypes\readme.htm" />
     <Content Include="SqlServerTypes\x64\msvcr120.dll">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
